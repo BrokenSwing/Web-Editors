@@ -1,0 +1,25 @@
+{
+  "name": "monaco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrokenSwing/Web-Editors.git"
+  },
+  "author": "BrokenSwing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrokenSwing/Web-Editors/issues"
+  },
+  "homepage": "https://github.com/BrokenSwing/Web-Editors#readme",
+  "dependencies": {
+    "monaco-editor": "^0.23.0"
+  },
+  "devDependencies": {
+    "serve": "^11.3.2"
+  }
+}

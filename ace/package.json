@@ -1,0 +1,25 @@
+{
+  "name": "web-editors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrokenSwing/Web-Editors.git"
+  },
+  "author": "BrokenSwing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrokenSwing/Web-Editors/issues"
+  },
+  "homepage": "https://github.com/BrokenSwing/Web-Editors#readme",
+  "dependencies": {
+    "ace-builds": "^1.4.12"
+  },
+  "devDependencies": {
+    "serve": "^11.3.2"
+  }
+}
